@@ -1,6 +1,6 @@
 # 🌤️ Weather App (HTML, CSS & JavaScript)
 A modern Weather App built using **HTML, CSS, and JavaScript**.  
-Search any city to get real-time weather details along with a **4-day forecast**.  
+Search any city to get real-time weather details along with a **5-day forecast**.  
 This project is ideal for beginners who want to practice API integration, DOM manipulation, and responsive design.
 
 ## 🚀 Live Demo
